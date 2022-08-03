@@ -36,7 +36,7 @@ export default function HomeContent() {
                 </Div>
                     <FlexDiv direction="column"  justify="center">
                         <h2>Reliable Data!</h2>
-                        <p>the data provided by this website is checked and comes directly from NASA's API's, therefore it is completely safe and reliable.</p>
+                        <p>the data provided by this website is checked and comes directly from NASA API, therefore it is completely safe and reliable.</p>
                     </FlexDiv> 
                 </GridDiv>
                 <Footer/>
