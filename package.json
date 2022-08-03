@@ -1,5 +1,5 @@
 {
-  "name": "discover-the-galaxy",
+  "name": "clear",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,12 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons": "^1.9.1",
     "next": "12.2.3",
+    "next-images": "^1.8.4",
+    "next-seo": "^5.5.0",
+    "next-sitemap": "^3.1.15",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "18.2.0",
+    "react-tsparticles": "^2.1.4",
+    "styled-components": "^5.3.5",
+    "tsparticles": "^2.1.4"
   },
   "devDependencies": {
     "eslint": "8.20.0",
     "eslint-config-next": "12.2.3"
-  }
+  },
+  "description": "Webdex is a redesign and reprogramming of my old project with the same name created in 2020. This new website contain news interfaces, programming, layout and new pokémons!",
+  "main": "next-sitemap.js",
+  "author": "",
+  "license": "ISC"
 }
