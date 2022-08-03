@@ -18,7 +18,7 @@ export default function footer() {
                    <span>Nasa API's</span>
                    <a href="https://api.nasa.gov/" target="_blank" rel='noreferrer'  className='link'>
                    <i className="bi bi-link-45deg"></i>
-                     Link to API's
+                     Link to API
                     </a>
 
                    <span>GitHub Repo:</span>
@@ -30,7 +30,6 @@ export default function footer() {
               <Section width="30%">
                 <span>Credits:</span>
                 <p>Images from: <a href="https://icons8.com/illustrations" target="_blank" rel="noreferrer">Ouch Pics!</a></p>
-                
               </Section>
             </FlexDiv>
         </Footer>
