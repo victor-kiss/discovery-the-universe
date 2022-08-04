@@ -24,6 +24,7 @@ const Banner = styled.div`
       h1{
         font-size:26px;
         padding:10px;
+        text-align:center;
       }
     }
 `
