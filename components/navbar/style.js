@@ -43,6 +43,7 @@ nav.navbar a.nav-link, a.nav-link.active{
 // mobile version
 
 div.navbar-nav a.nav-link{
+    background-color:rgba(0,0,0,.9);
     margin:0px 5px;
     padding:5px;
     @media(max-width:768px){

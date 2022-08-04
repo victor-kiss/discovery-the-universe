@@ -11,6 +11,7 @@ const Footer = styled.footer`
     
     // footer para diferentes dispositivos
     @media(max-width:576px){
+        background-color:rgba(0,0,0,.9);
         position:relative;
         text-align:left;
         margin-top: 20px;
