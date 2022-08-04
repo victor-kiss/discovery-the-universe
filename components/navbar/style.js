@@ -11,7 +11,6 @@ const NavbarStyle = styled.nav`
 }
 
 nav.navbar a.nav-link, a.nav-link.active{
-    background-color:rgba(0,0,0,.9);
     color:#FFF;
     font-size:18px;
     margin:5px;
@@ -44,11 +43,9 @@ nav.navbar a.nav-link, a.nav-link.active{
 // mobile version
 
 div.navbar-nav a.nav-link{
-    background-color:rgba(0,0,0,.6);
     margin:0px 5px;
     padding:5px;
     @media(max-width:768px){
-        background-color:rgba(0,0,0,.6);
         display:flex;
         flex-direction:column;
         justify-content:center;
