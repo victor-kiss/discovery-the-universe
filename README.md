@@ -1,7 +1,6 @@
 ## Discovery the Universe !
 
-Webdex is a redesign and reprogramming of my old project with the same name created in 2020. This new website contain news interfaces, programming, layout and new pokémons!
-
+The idea behind this site came from a challenge where I set out to make an entire site in less than 12 hours, this is the result of this challenge, I hope you like it!
 
 ## folders
 
