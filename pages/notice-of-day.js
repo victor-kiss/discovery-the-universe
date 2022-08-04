@@ -35,7 +35,7 @@ const CardApod = styled.div`
     }
 `
 
-export default function noticeOfDay() {
+export default function NoticeOfDay() {
 
     const [data, setData] = useState({})
 

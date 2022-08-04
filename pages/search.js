@@ -47,7 +47,7 @@ const Input = styled.input`
     }
 `
 
-export default function search() {
+export default function Search() {
 
     const [data, setData] = useState([])
 
