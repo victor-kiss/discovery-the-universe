@@ -13,7 +13,7 @@ export default function footer() {
               margin="10px" width="40%">
                 <span className='title'>Creator</span>
 
-                <p>Hello! My name is Victor, but you can call me ssik, I'm a brazilian  web developer focused on front-end, more things about me by clicking <a href="https://ssik824.vercel.app/">here</a>.</p>
+                <p>Hello! My name is Victor, but you can call me ssik, I'm a brazilian  web developer focused on front-end, more things about me by clicking <a href="https://ssik824.vercel.app/" rel="noreferrer" target="_blank">here</a>.</p>
               </Section>
               <Section 
               margin="10px" width="30%">
