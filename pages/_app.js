@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import GlobalStyle from '../styles/global.js'
 import Particles from '../particles'
 
-function MyApp({ Component, pageProps }) {
+function myApp({ Component, pageProps }) {
   return(
     <>
       <Component {...pageProps} />
@@ -12,4 +12,4 @@ function MyApp({ Component, pageProps }) {
   )
 }
 
-export default MyApp
+export default myApp
