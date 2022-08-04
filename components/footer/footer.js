@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-page-custom-font */
+
 import React from 'react'
 import {Footer} from './style'
 import FlexDiv from '../../patterns/flex-div'
