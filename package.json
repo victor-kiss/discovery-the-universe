@@ -1,12 +1,13 @@
 {
-  "name": "clear",
+  "name": "discovery the universe",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postbuild": "next-sitemap"
   },
   "dependencies": {
     "bootstrap": "^5.2.0",
@@ -26,8 +27,7 @@
     "eslint": "8.20.0",
     "eslint-config-next": "12.2.3"
   },
-  "description": "Webdex is a redesign and reprogramming of my old project with the same name created in 2020. This new website contain news interfaces, programming, layout and new pokémons!",
-  "main": "next-sitemap.js",
-  "author": "",
+  "description": "Discovery the universe with Nasa's data",
+  "author": "ssik824",
   "license": "ISC"
 }
