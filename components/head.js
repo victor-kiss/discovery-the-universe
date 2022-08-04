@@ -35,6 +35,8 @@ export default function head({title}) {
                     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"/>
                     
                     <link rel="icon" type="image/x-icon" href="/observatory.png"/>
+
+                    <meta name="google-site-verification" content="VhQSA-WAgNF6QY7IUMhGqwGRrRVmaGFvypFs0QZHGrM" />
                     <title>{title}</title> 
                     </>
             </NextHead>
