@@ -91,7 +91,7 @@ export default function Search() {
                     data.map(dataArray =>
                         dataArray.collection.items.map(
                         datas => datas.data.map(searchData => 
-                        <Card>
+                        <Card key={searchData.title}>
                             <h2>{searchData.title}</h2>
                             <span>Created: {searchData.date_created}</span>
                             <span>Center: {searchData.center}</span>
