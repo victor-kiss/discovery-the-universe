@@ -11,6 +11,7 @@ const NavbarStyle = styled.nav`
 }
 
 nav.navbar a.nav-link, a.nav-link.active{
+    background-color:rgba(0,0,0,.9);
     color:#FFF;
     font-size:18px;
     margin:5px;
