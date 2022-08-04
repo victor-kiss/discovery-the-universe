@@ -37,6 +37,7 @@ export default function head({title}) {
                     <link rel="icon" type="image/x-icon" href="/observatory.png"/>
 
                     <meta name="google-site-verification" content="VhQSA-WAgNF6QY7IUMhGqwGRrRVmaGFvypFs0QZHGrM" />
+                    <Script async src="https://www.googletagmanager.com/gtag/js?id=G-JPKY3XPYP8"/>
                     <title>{title}</title> 
                     </>
             </NextHead>
